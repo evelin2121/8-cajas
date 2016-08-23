@@ -1,0 +1,53 @@
+.one { background-color: #6D7270;
+       height: 100px;
+       width: 100px;}
+
+ .two { background-color: #6D7270;
+        height: 130px;
+        width: 360px;
+      }
+      .cubo1 { width: 100px;
+               height: 100px;
+               border: 2px solid;
+               position: absolute;
+                top: 135px;
+                bottom: 0px;
+                left: 20px;
+                right: 0px;}
+      
+      .cubo2 { width: 100px;
+               height: 100px;
+               border: 2px solid;
+                position: absolute;
+                left: 135px;
+                top: 135px;
+                bottom: 0px;
+                right: 0px;}
+
+       .cubo3 { width: 100px;
+               height: 100px;
+               border: 2px solid;
+                position: absolute;
+                left: 250px;
+                top: 135px;
+                bottom: 0px;
+                right: 0px;}         
+
+.tree { background-color:#6D7270;
+	    height: 100px; 
+	    width: 100px;
+	    border-left: }
+
+.for{ background-color: #6D7270;
+      height: 100px;
+      width: 100px; 
+      position: absolute;
+      left: 135px;
+      top: 283px;
+      bottom: 0px;
+      right: 0px;
+      }
+ 
+ .five { background-color: #6D7270;
+      height: 100px;
+      width: 100px;}      
